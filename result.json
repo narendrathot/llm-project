@@ -1,0 +1,8 @@
+{
+    "name": "Python: get_papers_list",
+    "type": "python",
+    "request": "launch",
+    "program": "${workspaceFolder}/get_papers_list.py",
+    "args": ["cancer treatment", "--file", "output.csv"],
+    "console": "integratedTerminal"
+}
